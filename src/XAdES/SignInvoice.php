@@ -183,7 +183,7 @@ class SignInvoice extends Sign
         if(strpos($this->xmlString, '</NominaIndividual>') || strpos($this->xmlString, '</NominaIndividualDeAjuste>'))
             $this->setCUNE();
         else
-            if(strpos($this->xmlString, '</ApplicationResponse>') && strpos($this->xmlString, '</ApplicationResponse>') === false)
+            if(strpos($this->xmlString, '</ApplicationResponse>') && strpos($this->xmlString, '</AttachedDocument>') === false)
                 $this->setCUDEEVENT();
             else
                 $this->setUUID();
