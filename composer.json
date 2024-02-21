@@ -1,8 +1,8 @@
 {
-    "name": "ubl21dian/torresoftware",
+    "name": "fe_colombia/Jdbmberrocal",
     "type": "library",
     "description": "Core for electronic invoicing pre-validation - DIAN UBL 2.1",
-    "homepage": "http://facturalatam.com",
+    "homepage": "https://jesusberrocal.site",
     "keywords": [
         "soap dian",
         "web service",
@@ -12,15 +12,15 @@
         "core"
     ],
     "support": {
-        "issues": "https://github.com/torresoftware/ubl21dian/issues",
-        "source": "https://github.com/torresoftware/ubl21dian"
+        "issues": "https://github.com/Jdbmberrocal/fe_colombia/issues",
+        "source": "https://github.com/Jdbmberrocal/fe_colombia"
     },
     "license": "LGPL-3.0",
     "authors": [
         {
-            "name": "facturalatam",
-            "email": "soporte@facturalatam.com",
-            "homepage": "https://facturalatam.com"
+            "name": "Jdbmberrocal",
+            "email": "jdbmberrocal@gmail.com",
+            "homepage": "https://jesusberrocal.site"
         }
     ],
     "minimum-stability": "stable",
